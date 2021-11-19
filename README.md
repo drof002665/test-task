@@ -5,6 +5,6 @@
 <ul>
     <li>clone project</li>
     <li>create .env file</li>
-    <li>composer install</li>
-    <li>php artisan migrate</li>
+    <li>run <code>composer install</code></li>
+    <li>run <code>php artisan migrate</code></li>
 </ul>
